@@ -2,6 +2,7 @@
 
 ## Navigate
 * Final report is "Project Report R3 .docx"
+* Final presentation slides is "455 presentation.pptx"
 
 ## Abstract
 The escalating concern surrounding the mental health of college students has become more pronounced, particularly since the onset of the COVID-19 pandemic in the United States. While the measures implemented to curb the spread of the virus, such as remote classes and social distancing were effective in mitigating the transmission of COVID-19, they concurrently intensified feelings of loneliness among college students. Illustratively, according to The News & Observer, during the academic year 2021-2022, half of the student body at NC State reported experiencing “moderate psychological distress” on a regular basis [1]. And tragically, seven N.C. State students died from suicide within the same academic year [2]. These distressing statistics underscore the presence of a mental health crisis in N.C. State, emphasizing the imperative need for a solution that assures college students that help is available for those grappling with signs of depression. Addressing this issue holds the potential to save lives.
